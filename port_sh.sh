@@ -8,4 +8,4 @@
  echo -ne '\n'                                                  
 # Feed the expect script a device list & the collected passwords
                                                                 
-#./port_exp.exp $password $enable  
+./port_exp.exp $password $enable  
